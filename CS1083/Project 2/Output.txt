@@ -1,0 +1,145 @@
+Spring 2021 - CS1083 - Section 002 - Project 2 - DifferentShapes - written by Shane Perry
+Please, select one of the following options
+0. Exit
+1. Print a Triangle
+2. Print a Diamond
+3. Print a Rectangle
+5
+Incorrect selection, please try again
+Please, select one of the following options
+0. Exit
+1. Print a Triangle
+2. Print a Diamond
+3. Print a Rectangle
+2
+What size do you want the diamond to be drawn?
+Please enter an even number between 0 and 80
+25
+Incorrect selection, please, try again
+Please enter the width of the diamond
+Please enter an even number between 0 and 80
+20
+Please enter the char that you would like to be used as the edge of the diamond
++
+Please enter the char that you would like to be used to fill the diamond
+*
+         /\
+        /**\
+       /****\
+      /******\
+     /********\
+    /**********\
+   /************\
+  /**************\
+ /****************\
+/******************\
+\******************/
+ \****************/
+  \**************/
+   \************/
+    \**********/
+     \********/
+      \******/
+       \****/
+        \**/
+         \/
+Please, select one of the following options
+0. Exit
+1. Print a Triangle
+2. Print a Diamond
+3. Print a Rectangle
+1
+Please enter the width of the triangle
+Please enter an even number between 0 and 80
+9
+Incorrect selection, please, try again
+Please enter the width of the triangle
+Please enter an even number between 0 and 80
+13
+Incorrect selection, please, try again
+Please enter the width of the triangle
+Please enter an even number between 0 and 80
+12
+      /\
+     /  \
+    /    \
+   /      \
+  /        \
+ /          \
+ ------------
+Please, select one of the following options
+0. Exit
+1. Print a Triangle
+2. Print a Diamond
+3. Print a Rectangle
+9
+Incorrect selection, please try again
+Please, select one of the following options
+0. Exit
+1. Print a Triangle
+2. Print a Diamond
+3. Print a Rectangle
+2
+What size do you want the diamond to be drawn?
+Please enter an even number between 0 and 80
+16
+Please enter the char that you would like to be used as the edge of the diamond
+9
+Please enter the char that you would like to be used to fill the diamond
+6
+       /\
+      /66\
+     /6666\
+    /666666\
+   /66666666\
+  /6666666666\
+ /666666666666\
+/66666666666666\
+\66666666666666/
+ \666666666666/
+  \6666666666/
+   \66666666/
+    \666666/
+     \6666/
+      \66/
+       \/
+Please, select one of the following options
+0. Exit
+1. Print a Triangle
+2. Print a Diamond
+3. Print a Rectangle
+3
+What size do you want the diamond to be drawn?
+Please enter an even number between 0 and 80
+15
+Please write the char you would like to use as the contour of the rectangle
++
++++++++++++++++
++             +
++             +
++             +
++             +
++             +
++             +
++             +
++             +
++             +
++             +
++             +
++             +
++             +
++++++++++++++++
+Please, select one of the following options
+0. Exit
+1. Print a Triangle
+2. Print a Diamond
+3. Print a Rectangle
+33
+Incorrect selection, please try again
+Please, select one of the following options
+0. Exit
+1. Print a Triangle
+2. Print a Diamond
+3. Print a Rectangle
+0
+Thank you for using this program, Good bye !

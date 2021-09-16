@@ -1,0 +1,17 @@
+Spring 2021 - CS1083 - Section 002 - Project 1 - written by Shane Perry
+
+Minutes of Sunday workout: 9
+Minutes of Monday workout: 15
+Minutes of Tuesday workout: 28
+Minutes of Wednesday workout: 23
+Minutes of Thursday workout: 29
+Minutes of Friday workout: 35
+Minutes of Saturday workout: 75
+
+Week	Sunday	Monday	Tuesday	Wednesday	Thursday	Friday	Saturday	Total/Week
+1	1-9	2-15	3-28	4-23	5-29	6-35	7-75	W1-214
+2	8-9	9-15	10-28	11-23	12-29	13-35	14-75	W2-214
+3	15-9	16-15	17-28	18-23	19-29	20-35	21-75	W3-214
+4	22-9	23-15	24-28	25-23	26-29	27-35	28-75	W4-214
+5	29-9	30-15	0-0	0-0	0-0	0-0	0-0	W5-24
+Month minutes workout total: 880
